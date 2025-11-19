@@ -1,0 +1,4 @@
+For Flask API all you need
+Flask==2.3.2
+To Create list of installed packages 
+pip freeze > requirements.txt
